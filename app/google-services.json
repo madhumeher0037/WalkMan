@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76099045025",
+    "project_id": "walkman-95ab9",
+    "storage_bucket": "walkman-95ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76099045025:android:53355a1dede9362c32d2e0",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76099045025-dj96sa3v84ekuu7n0199kpp9hov9tes8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjSTG8yniWCT7tRqrVck-O02jNLV_vxRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76099045025-dj96sa3v84ekuu7n0199kpp9hov9tes8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
